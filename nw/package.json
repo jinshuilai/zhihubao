@@ -1,0 +1,13 @@
+{
+  "name": "zhihuribao",
+  "version": "1.0.0",
+  "description": "知乎日报",
+  "main": "test.html",
+  "author": "mao",
+  "window": {
+    "title": "知乎日报",
+    "toolbar": false,
+    "width": 800,
+    "height": 600
+  }
+}
